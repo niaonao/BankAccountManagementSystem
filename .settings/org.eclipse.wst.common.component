@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="template-ssh">
+        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/template-ssh/WebRoot/WEB-INF/classes"/>
+		<!-- 运行项目后的访问名 
+		http://localhost:8080/BankAccountManagementSystem-->
+        <property name="context-root" value="/BankAccountManagementSystem"/>
+    </wb-module>
+</project-modules>

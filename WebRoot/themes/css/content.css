@@ -1,0 +1,30 @@
+
+
+H4 {
+  margin-bottom: .3em;
+  font: 1.3em/1.4 Georgia, serif;
+  color: 	#000	;
+  }
+
+select {
+  width: 80%;
+  height: 20px;
+  margin: 0 0 1em 0;
+  border: 1px solid #DDD;
+  border-radius: 10px;
+}
+
+#userinputstyle {
+  width: 80%;
+  height: 20px;
+  margin: 0 0 1em 0;
+  border: 1px solid #DDD;
+  border-radius: 10px;
+}
+INFO{
+	margin:5px;
+  font-style: italic;
+  color:#FFF;
+  background-color: #000;
+  
+ }
